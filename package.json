@@ -30,11 +30,7 @@
     "lambda",
     "image"
   ],
-  "author": {
-    "name": "Yoshiaki Sugimoto",
-    "email": "sugimoto@wnotes.net",
-    "web": "https://github.com/ysugimoto"
-  },
+
  
   "license": "MIT",
   "dependencies": {
@@ -58,11 +54,5 @@
   "directories": {
     "test": "test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/ysugimoto/aws-lambda-image.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ysugimoto/aws-lambda-image/issues"
-  }
+
 }
