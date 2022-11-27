@@ -284,13 +284,5 @@ processor.run(config)
 
 MIT License.
 
-## Author
-
-Yoshiaki Sugimoto
 
 ## Image credits
-
-Thanks for testing fixture images:
-
-- [pngimg](http://pngimg.com/)
-- [pakutaso](https://www.pakutaso.com/)
